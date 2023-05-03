@@ -1,0 +1,15 @@
+D:\laragon\www\C-Sharp\bhaskara\bin\Debug\net7.0\bhaskara.exe
+D:\laragon\www\C-Sharp\bhaskara\bin\Debug\net7.0\bhaskara.deps.json
+D:\laragon\www\C-Sharp\bhaskara\bin\Debug\net7.0\bhaskara.runtimeconfig.json
+D:\laragon\www\C-Sharp\bhaskara\bin\Debug\net7.0\bhaskara.dll
+D:\laragon\www\C-Sharp\bhaskara\bin\Debug\net7.0\bhaskara.pdb
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.csproj.AssemblyReference.cache
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.AssemblyInfoInputs.cache
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.AssemblyInfo.cs
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.csproj.CoreCompileInputs.cache
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.dll
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\refint\bhaskara.dll
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.pdb
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\bhaskara.genruntimeconfig.cache
+D:\laragon\www\C-Sharp\bhaskara\obj\Debug\net7.0\ref\bhaskara.dll
