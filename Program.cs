@@ -11,11 +11,11 @@ namespace Bhaskara
             string calculaBhaskara;
 
             Console.Write("Qual valor de a? ");
-            a = int.Parse(Console.ReadLine());
-            Console.Write("Qual valor de b? " );
-            b = int.Parse(Console.ReadLine());
-            Console.Write("Qual valor de c? " );
-            c = int.Parse(Console.ReadLine());
+            a = int.Parse(Console.ReadLine()!);
+            Console.Write("Qual valor de b? ");
+            b = int.Parse(Console.ReadLine()!);
+            Console.Write("Qual valor de c? ");
+            c = int.Parse(Console.ReadLine()!);
 
             calculaBhaskara = CalculaBhaskara(a, b, c);
 
@@ -28,7 +28,7 @@ namespace Bhaskara
         {
             double x1, x2, delta;
             string result;
-            
+
             delta = Math.Pow(b, 2) - 4 * a * c;
 
             x1 = (-b + Math.Sqrt(delta)) / (2 * a);
