@@ -7,7 +7,7 @@ namespace Bhaskara
         static void Main(string[] args)
         {
             //fazendo a formula de bhaskara
-            double a, b, c, x1, x2, delta;
+            double a, b, c;
             string calculaBhaskara;
 
             Console.Write("Qual valor de a? ");
